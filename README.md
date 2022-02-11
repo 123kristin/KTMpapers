@@ -1,5 +1,6 @@
 # KTM papers
-Contributed by [Jiahao Chen](http://www.tabchen.com),Qiongqiong Liu,Shuyan Huang
+Contributed by [Jiahao Chen](http://www.tabchen.com)
+<!-- ,Qiongqiong Liu,Shuyan Huang -->
 
 ## Introduction
 Knowledge Tracing Model (KTM), which aims to monitor students’ evolving knowledge state, is an essential and crucial task to support these intelligent services. In this repo, we list some representative work on KTMs, and we use the taxonomy proposed in [1] to category those papers. Feel free to distribute or use it!
